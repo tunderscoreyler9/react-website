@@ -25,3 +25,7 @@
 .card .card-text {
   color: hsl(0, 0.0%, 30%);
 }
+
+.button {
+  background-color: hsl(200, 100%, 50%);
+}
