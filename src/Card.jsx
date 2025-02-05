@@ -1,4 +1,4 @@
-import logo from './images/osfi2ccuar131.jpg'
+import logo from './assets/osfi2ccuar131.jpg'
 
 function Card() {
    return (
